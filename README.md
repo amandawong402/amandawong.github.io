@@ -1,5 +1,5 @@
 # About Me
-## **Professiona**
+## **Professional**
 
 I am a Senior Technical Product Manager, currently working at [BioIntelliSense, Inc.](https://www.biointellisense.com/), a medical device start-up in the Redwood City, CA. 
 
