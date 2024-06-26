@@ -39,7 +39,8 @@ Check out my latest adventures [here](https://www.youtube.com/@amandaleewong/fea
 
 **International**
 
-Europe
+<details>
+<summary>Europe</summary>
 
 | :--- | ---: |
 | Amsterdam, Netherlands | *Up to date as of 9/2023*|
@@ -47,6 +48,7 @@ Europe
 | London, England | *Up to date as of 9/2023*|
 | Paris, France | *Up to date as of 9/2023*|
 
+ </details>
 
 Europe 
 - Amsterdam, Netherlands
