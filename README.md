@@ -7,8 +7,6 @@ I am a Senior Technical Product Manager, currently working at [BioIntelliSense, 
 
 I earned my bachelors in BioChemistry from a private, liberal arts college called Saint Mary's College of California. I immediately started pursuing my PhD in Chemical, Physical, and Structural Biology at Baylor College of Medicine in Houston, Texas after my undergraduate degree. A year into my PhD, I took a leap of faith and chose to pursue a more meaningful career that intersected with more of my interests: healthcare, technology, and research. 
 
-# Get to Know Me a Little More :) 
-
 ## **Hobbies**
 
 I am an avid runner, traveller, hiker, and painter. 
@@ -21,7 +19,7 @@ Personal finance, business development, writing, swimming, learning languages, r
 
 ## **Community Involvement**
 
-[American Cancer Society] (https://www.cancer.org/), [Leukemia & Lymphoma Society] (https://www.lls.org/), [Elephants & Tea] (https://elephantsandtea.org/)
+[American Cancer Society](https://www.cancer.org/), [Leukemia & Lymphoma Society](https://www.lls.org/), [Elephants & Tea](https://elephantsandtea.org/)
 
 ## **Influencers**
 
