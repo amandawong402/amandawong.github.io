@@ -33,11 +33,11 @@ Check out my latest adventures [here](https://www.youtube.com/@amandaleewong/fea
 
 ## Travel Writing
 
-### - **International**
+- **International**
 
-### - **Domestic**
+- **Domestic**
 
-### - **National Parks & Monuments and State Parks**
+- **National Parks & Monuments and State Parks**
 
 # Art 
 
