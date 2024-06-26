@@ -27,17 +27,17 @@ Thich Nhat Hanh, Brene Brown, Reid Hoffman
 
 # Travel
 
-## - Travel Videos 
+## Travel Videos 
 
 Check out my latest adventures [here](https://www.youtube.com/@amandaleewong/featured)!
 
-## - Travel Writing
+## Travel Writing
 
-### **International**
+### - **International**
 
-### **Domestic**
+### - **Domestic**
 
-### **National Parks & Monuments and State Parks**
+### - **National Parks & Monuments and State Parks**
 
 # Art 
 
