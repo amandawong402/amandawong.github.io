@@ -33,11 +33,46 @@ Check out my latest adventures [here](https://www.youtube.com/@amandaleewong/fea
 
 ## Travel Writing
 
-- **International**
+**International**
 
-- **Domestic**
+Europe 
+- Amsterdam, Netherlands
+- Brussels, Belgium
+- London, England
+- Paris, France 
 
-- **National Parks & Monuments and State Parks**
+Central America & South America
+- Belize
+- Costa Rica
+- Guatemala
+- Panama
+- Peru 
+
+North America 
+- British Columbia, Canada
+- Alberta, Canada
+
+Asia 
+- Japan
+
+Oceania 
+- Sydney, Australia
+- New Zealand (North Island)
+
+**Domestic**
+- Boston, MA
+- Detroit, MI
+- Houston, TX
+- Kauai, HI
+- Maui, HI
+- Oahu, HI
+- Phoenix, AZ
+- Portland, OR 
+- Portland, ME
+- Seattle, WA
+- The Big Island, HI
+
+**National Parks & Monuments and State Parks**
 
 # Art 
 
