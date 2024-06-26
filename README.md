@@ -25,6 +25,10 @@ Personal finance, business development, writing, swimming, learning languages, r
 
 Thich Nhat Hanh, Brene Brown, Reid Hoffman 
 
+# Art 
+
+Check out my latest pieces of art [here](https://amandawong402.wixsite.com/portfolio)! 
+
 # Travel
 
 ## Travel Videos 
@@ -34,6 +38,13 @@ Check out my latest adventures [here](https://www.youtube.com/@amandaleewong/fea
 ## Travel Writing
 
 **International**
+
+Europe
+| :---          |           ---:|
+| Amsterdam, Netherlands  | Up to date as of September 2023  |
+| Brussels, Belgium | Up to date as of September 2023  |
+| London, England | Up to date as of September 2023  |
+| Paris, France | Up to date as of September 2023  |
 
 Europe 
 - Amsterdam, Netherlands
@@ -73,8 +84,4 @@ Oceania
 - The Big Island, HI
 
 **National Parks & Monuments and State Parks**
-
-# Art 
-
-Check out my latest pieces of art [here](https://amandawong402.wixsite.com/portfolio)! 
 
