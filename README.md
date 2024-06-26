@@ -41,11 +41,11 @@ Check out my latest adventures [here](https://www.youtube.com/@amandaleewong/fea
 
 Europe
 
-| :---          |           ---:|
-| Amsterdam, Netherlands  | Up to date as of September 2023  |
-| Brussels, Belgium | Up to date as of September 2023  |
-| London, England | Up to date as of September 2023  |
-| Paris, France | Up to date as of September 2023  |
+|:---|---:|
+| Amsterdam, Netherlands | Up to date as of September 2023|
+| Brussels, Belgium | Up to date as of September 2023|
+| London, England | Up to date as of September 2023|
+| Paris, France | Up to date as of September 2023|
 
 Europe 
 - Amsterdam, Netherlands
