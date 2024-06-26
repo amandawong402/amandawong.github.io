@@ -21,7 +21,7 @@ Personal finance, business development, writing, swimming, learning languages, r
 
 ## **Community Involvement**
 
-[American Cancer Society (https://www.cancer.org/)], [Leukemia & Lymphoma Society (https://www.lls.org/)], [Elephants & Tea (https://elephantsandtea.org/)]
+[American Cancer Society] (https://www.cancer.org/), [Leukemia & Lymphoma Society] (https://www.lls.org/), [Elephants & Tea] (https://elephantsandtea.org/)
 
 ## **Influencers**
 
