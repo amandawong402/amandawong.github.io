@@ -22,7 +22,7 @@ Personal finance, business development, writing, swimming, learning languages, r
 
 ### **Community Involvement**: 
 
-American Cancer Society, Leukemia & Lymphoma Society, Elephants & Tea, Imerman Angels
+American Cancer Society, Leukemia & Lymphoma Society, Elephants & Tea
 
 ### **Influencers**: 
 
