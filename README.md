@@ -25,11 +25,21 @@ Personal finance, business development, writing, swimming, learning languages, r
 
 Thich Nhat Hanh, Brene Brown, Reid Hoffman 
 
-# Travel Writing 
+# Travel
+
+## Writing
 
 ### **International**
 
 ### **Domestic**
 
 ### **National Parks & Monuments and State Parks**
+
+## Videos 
+
+### Check out my latest adventures [here](https://www.youtube.com/@amandaleewong/featured)!
+
+# Art 
+
+### Check out my latest pieces of art [here](https://amandawong402.wixsite.com/portfolio)! 
 
