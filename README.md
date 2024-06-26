@@ -40,6 +40,7 @@ Check out my latest adventures [here](https://www.youtube.com/@amandaleewong/fea
 **International**
 
 Europe
+
 | :---          |           ---:|
 | Amsterdam, Netherlands  | Up to date as of September 2023  |
 | Brussels, Belgium | Up to date as of September 2023  |
