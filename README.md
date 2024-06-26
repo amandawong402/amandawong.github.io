@@ -41,6 +41,7 @@ Check out my latest adventures [here](https://www.youtube.com/@amandaleewong/fea
 
 <details>
  <summary><i>Europe</i></summary>
+</details>
 
 | Destination | Updated Date| 
 | :--- | ---: |
@@ -48,9 +49,6 @@ Check out my latest adventures [here](https://www.youtube.com/@amandaleewong/fea
 | Brussels, Belgium | *Up to date as of 9/2023*|
 | London, England | *Up to date as of 9/2023*|
 | Paris, France | *Up to date as of 9/2023*|
-
-
-</details>
 
 Europe 
 - Amsterdam, Netherlands
