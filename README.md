@@ -27,13 +27,13 @@ Thich Nhat Hanh, Brene Brown, Reid Hoffman
 
 # Art 
 
-Check out my latest pieces of art [here](https://amandawong402.wixsite.com/portfolio)! 
+Check out my latest pieces of art [**here**](https://amandawong402.wixsite.com/portfolio)! 
 
 # Travel
 
 ## Travel Videos 
 
-Check out my latest adventures [here](https://www.youtube.com/@amandaleewong/featured)!
+Check out my latest adventures [**here**](https://www.youtube.com/@amandaleewong/featured)!
 
 ## Travel Writing
 
