@@ -39,36 +39,38 @@ Check out my latest adventures [here](https://www.youtube.com/@amandaleewong/fea
 
 **International**
 
-| Destination | | 
+| Europe | | 
 | :--- | ---: |
 | Amsterdam, Netherlands | *Up to date as of 9/2023*|
 | Brussels, Belgium | *Up to date as of 9/2023*|
 | London, England | *Up to date as of 9/2023*|
 | Paris, France | *Up to date as of 9/2023*|
 
-Europe 
-- Amsterdam, Netherlands
-- Brussels, Belgium
-- London, England
-- Paris, France 
 
-Central America & South America
-- Belize
-- Costa Rica
-- Guatemala
-- Panama
-- Peru 
+| Central America & South America | |
+| :--- | ---: |
+| Belize | *Up to date as of 1/2019*|
+| Costa Rica| *Up to date as of 1/2019*|
+| Guatemala | *Up to date as of 1/2019*|
+| Panama | *Up to date as of 1/2019*|
+| Peru | *Up to date as of 1/2019*|
 
+
+| Asia | |
+| :--- | ---: |
+| Japan | *Up to date as of 4/2024*|
+
+
+| Oceania | |
+| :--- | ---: |
+| Sydney, Australia | 
+| New Zealand (North Island) |
+  
 North America 
 - British Columbia, Canada
 - Alberta, Canada
 
-Asia 
-- Japan
 
-Oceania 
-- Sydney, Australia
-- New Zealand (North Island)
 
 **Domestic**
 - Boston, MA
