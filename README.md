@@ -46,7 +46,7 @@ Check out my latest adventures [here](https://www.youtube.com/@amandaleewong/fea
 | London, England | *Up to date as of 9/2023*|
 | Paris, France | *Up to date as of 9/2023*|
 
-<break> 
+<br> 
 
 | Central America & South America | |
 | :--- | ---: |
@@ -56,20 +56,20 @@ Check out my latest adventures [here](https://www.youtube.com/@amandaleewong/fea
 | Panama | *Up to date as of 1/2019*|
 | Peru | *Up to date as of 1/2019*|
 
-<break> 
+<br> 
 
 | Asia | |
 | :--- | ---: |
 | Japan | *Up to date as of 4/2024*|
 
-<break> 
+<br> 
   
 | Oceania | |
 | :--- | ---: |
 | Sydney, Australia | *Up to date as of 12/2018*|
 | New Zealand (North Island) | *Up to date as of 12/2018*|
 
-<break> 
+<br> 
   
 North America 
 - British Columbia, Canada
