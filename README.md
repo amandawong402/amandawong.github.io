@@ -39,12 +39,9 @@ Check out my latest adventures [here](https://www.youtube.com/@amandaleewong/fea
 
 ### **International**
 
-| Europe | | 
+| Asia | |
 | :--- | ---: |
-| Amsterdam, Netherlands | *Up to date as of 9/2023*|
-| Brussels, Belgium | *Up to date as of 9/2023*|
-| London, England | *Up to date as of 9/2023*|
-| Paris, France | *Up to date as of 9/2023*|
+| Japan | *Up to date as of 4/2024*|
 
 <br> 
 
@@ -58,9 +55,12 @@ Check out my latest adventures [here](https://www.youtube.com/@amandaleewong/fea
 
 <br> 
 
-| Asia | |
+| Europe | | 
 | :--- | ---: |
-| Japan | *Up to date as of 4/2024*|
+| Amsterdam, Netherlands | *Up to date as of 9/2023*|
+| Brussels, Belgium | *Up to date as of 9/2023*|
+| London, England | *Up to date as of 9/2023*|
+| Paris, France | *Up to date as of 9/2023*|
 
 <br> 
   
@@ -107,22 +107,23 @@ Check out my latest adventures [here](https://www.youtube.com/@amandaleewong/fea
 
 | MidWest | |
 | :--- | ---: |
-| XXX | *Up to date as of 12/2018*|
-| XXX | *Up to date as of 12/2018*|
+| Badlands National Park, SD | *Up to date as of 9/2022*|
+| Custer State Park, SD | *Up to date as of 9/2022*|
+| Mount Rushmore National Memorial, SD | *Up to date as of 9/2022*|
+| Spearfish Canyon, SD | *Up to date as of 9/2022*|
 
 <br> 
 
 | SouthWest | |
 | :--- | ---: |
-| XXX | *Up to date as of 12/2018*|
+| Grand Canyon National Park, AZ | *Up to date as of 12/2018*|
 | XXX | *Up to date as of 12/2018*|
 
 <br> 
 
 | New England | |
 | :--- | ---: |
-| XXX | *Up to date as of 12/2018*|
-| XXX | *Up to date as of 12/2018*|
+| Acadia National Park | *Up to date as of 12/2018*|
 
 <br> 
 
