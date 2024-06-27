@@ -37,7 +37,7 @@ Check out my latest adventures [here](https://www.youtube.com/@amandaleewong/fea
 
 ## Travel Writing
 
-**International**
+### **International**
 
 | Europe | | 
 | :--- | ---: |
@@ -70,24 +70,63 @@ Check out my latest adventures [here](https://www.youtube.com/@amandaleewong/fea
 | New Zealand (North Island) | *Up to date as of 12/2018*|
 
 <br> 
-  
-North America 
-- British Columbia, Canada
-- Alberta, Canada
 
+### **Domestic**
 
-**Domestic**
-- Boston, MA
-- Detroit, MI
-- Houston, TX
-- Kauai, HI
-- Maui, HI
-- Oahu, HI
-- Phoenix, AZ
-- Portland, OR 
-- Portland, ME
-- Seattle, WA
-- The Big Island, HI
+| MidWest | |
+| :--- | ---: |
+| Detroit, MI | *Up to date as of 12/2018*|
+| XXX | *Up to date as of 12/2018*|
 
-**National Parks & Monuments and State Parks**
+<br> 
 
+| SouthWest | |
+| :--- | ---: |
+| Houston, TX | *Up to date as of 12/2018*|
+| Phoenix, AZ | *Up to date as of 12/2018*|
+
+<br> 
+
+| New England | |
+| :--- | ---: |
+| Boston, MA | *Up to date as of 12/2018*|
+| Portland, ME | *Up to date as of 12/2018*|
+
+<br> 
+
+| West | |
+| :--- | ---: |
+| Kauai, HI | *Up to date as of 12/2018*|
+| Maui, HI | *Up to date as of 12/2018*|
+| Oahu, HI | *Up to date as of 12/2018*|
+| Portland, OR | *Up to date as of 12/2018*|
+| Seattle, WA | *Up to date as of 12/2018*|
+| The Big Island, HI | *Up to date as of 12/2018*|
+
+### **National Parks & Monuments and State Parks**
+
+| MidWest | |
+| :--- | ---: |
+| XXX | *Up to date as of 12/2018*|
+| XXX | *Up to date as of 12/2018*|
+
+<br> 
+
+| SouthWest | |
+| :--- | ---: |
+| XXX | *Up to date as of 12/2018*|
+| XXX | *Up to date as of 12/2018*|
+
+<br> 
+
+| New England | |
+| :--- | ---: |
+| XXX | *Up to date as of 12/2018*|
+| XXX | *Up to date as of 12/2018*|
+
+<br> 
+
+| West | |
+| :--- | ---: |
+| XXX | *Up to date as of 12/2018*|
+| XXX | *Up to date as of 12/2018*|
