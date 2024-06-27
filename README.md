@@ -63,13 +63,13 @@ Check out my latest adventures [here](https://www.youtube.com/@amandaleewong/fea
 
 | Oceania | |
 | :--- | ---: |
-| Sydney, Australia | 
-| New Zealand (North Island) |
+| Sydney, Australia | *Up to date as of 12/2018*|
+| New Zealand (North Island) | *Up to date as of 12/2018*|
+
   
 North America 
 - British Columbia, Canada
 - Alberta, Canada
-
 
 
 **Domestic**
