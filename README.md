@@ -81,7 +81,6 @@ Check out my latest adventures [here](https://www.youtube.com/@amandaleewong/fea
 | MidWest | |
 | :--- | ---: |
 | Detroit, MI | *Up to date as of 12/2018*|
-| XXX | *Up to date as of 12/2018*|
 
 <br> 
 
