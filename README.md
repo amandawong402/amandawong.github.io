@@ -71,6 +71,11 @@ Check out my latest adventures [here](https://www.youtube.com/@amandaleewong/fea
 
 <br> 
 
+| North America | |
+| :--- | ---: |
+| Montreal, Canada | *Coming Soon*|
+| Quebec City, Canada | *Coming Soon*|
+
 ### **Domestic**
 
 | MidWest | |
@@ -116,18 +121,37 @@ Check out my latest adventures [here](https://www.youtube.com/@amandaleewong/fea
 
 | SouthWest | |
 | :--- | ---: |
+| Antelope Canyon, AZ | *Up to date as of 12/2018*|
 | Grand Canyon National Park, AZ | *Up to date as of 12/2018*|
-| XXX | *Up to date as of 12/2018*|
+| Olijato-Monument Valley, AZ | *Up to date as of 12/2018*|
+| Saguaro National Park, AZ | *Up to date as of 12/2018*|
+| Sedona, AZ | *Up to date as of 12/2018*|
 
 <br> 
 
 | New England | |
 | :--- | ---: |
-| Acadia National Park | *Up to date as of 12/2018*|
+| Acadia National Park, ME | *Up to date as of 12/2018*|
 
 <br> 
 
 | West | |
 | :--- | ---: |
-| XXX | *Up to date as of 12/2018*|
-| XXX | *Up to date as of 12/2018*|
+| Arches National Park, UT | *Up to date as of 12/2018*|
+| Bryce Canyon National Park, UT | *Up to date as of 12/2018*|
+| Canyonlands National Park, UT | *Up to date as of 12/2018*|
+| Capitol Reef National Park, UT | *Up to date as of 12/2018*|
+| Columbia River Gorge, OR/WA | *Up to date as of 6/2023*|
+| Dead Horse Point State Park, UT | *Up to date as of 9/2022*|
+| Devils Tower National Monumnent, WY | *Up to date as of 9/2022*|
+| Garden of the Gods, CO | *Up to date as of 12/2018*|
+| Glacier National Park, MT | *Up to date as of 7/2023*|
+| Goblin Valley State Park, UT | *Up to date as of 7/2023*|
+| Joshua Tree National Park, CA | *Up to date as of 12/2018*|
+| Lake Tahoe, CA | *Up to date as of 6/2023*|
+| Mammoth Lakes, CA | *Up to date as of 7/2024*|
+| Mount Rainier National, WA | *Up to date as of 7/2024*|
+| Pinnacles National Park, CA | *Up to date as of 4/2022*|
+| Rocky Mountain National Park, CO | *Up to date as of 12/2018*|
+| Yellowstone National Park | *Up to date as of 12/2018*|
+| Zion National Park, UT | *Up to date as of 12/2018*|
